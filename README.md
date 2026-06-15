@@ -1,14 +1,14 @@
-# HR Attrition Analysis Dashboard
+# 📊 HR Attrition Analysis Dashboard
 
-## Project Overview
+## 📍 OBJECTIVE
 
-This project analyzes employee attrition patterns using the IBM HR Analytics dataset. The goal was to identify the factors contributing to employee turnover and provide actionable insights to improve employee retention and workforce planning.
+Employee attrition is the rate at which employees leave a company. The goal of this analysis is to model employee attrition and determine the most dominant contributing factors that govern this turnover. Through this kind of analysis, we can understand how many employees are likely to leave, while also determining which employees are at the highest risk and for what reasons.
 
 ## Business Problem
 
 Employee attrition can increase recruitment costs and affect productivity. The goal of this project was to help HR teams understand why employees leave and identify areas where retention strategies could be implemented.
 
-## Business Questions
+## 🔍 Business Questions
 
 * Which department experiences the highest attrition?
 * Is employee attrition related to overtime?
@@ -20,7 +20,7 @@ Employee attrition can increase recruitment costs and affect productivity. The g
 ## Dashboard Screenshot
 ![HR Dashboard](hr%20dashboard.png)
 
-## Key Insights
+## 📈 Key Insights
 
 * Research & Development recorded the highest employee attrition.
 * Employees working overtime showed higher attrition compared to employees who did not work overtime.
@@ -37,7 +37,7 @@ Employee attrition can increase recruitment costs and affect productivity. The g
 * Implement targeted engagement initiatives for high-attrition job roles such as Laboratory Technicians.
 * Provide career growth and development opportunities for employees aged 26–35.
 
-## Tools Used
+## 🛠 Tools Used
 
 * Power BI
 * Power Query
