@@ -18,8 +18,7 @@ Employee attrition can increase recruitment costs and affect productivity. The g
 * Which age group experiences the highest attrition?
 
 ## Dashboard Screenshot
-
-![HR Dashboard](hr_dashboard.png)
+(![HR Dashboard](hr%20dashboard.png)
 
 ## Key Insights
 
