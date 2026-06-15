@@ -19,7 +19,7 @@ Employee attrition can increase recruitment costs and affect productivity. The g
 
 ## Dashboard Screenshot
 
-![HR Dashboard](hr dashboard.png)
+![HR Dashboard](hr_dashboard.png)
 
 ## Key Insights
 
