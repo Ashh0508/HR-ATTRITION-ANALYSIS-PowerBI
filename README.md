@@ -20,6 +20,9 @@ Employee attrition can increase recruitment costs and affect productivity. The g
 ## Dashboard Screenshot
 ![HR Dashboard](hr%20dashboard.png)
 
+## HR CHATBOT Screenshot
+![HR Chatbot](Qstn.png)
+![HR Chatbot](ans.png)
 ## 📈 Key Insights
 
 * Research & Development recorded the highest employee attrition.
